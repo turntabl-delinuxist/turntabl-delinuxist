@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Obeng Twene</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
   
- <!-- 
- <img align="right"  width="50%" height="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
- -->
-<img align="center" src="https://ci3.googleusercontent.com/mail-sig/AIorK4xk4OhN--1u464MU6O1lY1kxg4ycoI45EXAw0BelYbqr7bhCILEwU5Xx6FCrxxMYctJIpYEd6Y"/>
 
+ 
+
+<img align="center" width="100%" height="200" src="https://ci3.googleusercontent.com/mail-sig/AIorK4xk4OhN--1u464MU6O1lY1kxg4ycoI45EXAw0BelYbqr7bhCILEwU5Xx6FCrxxMYctJIpYEd6Y"/>
+
+<img align="right" width="30%" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turntabl-delinuxist&label=Profile%20views&color=0e75b6&style=flat" alt="turntabl-delinuxist" /> </p>
 
